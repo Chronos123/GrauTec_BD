@@ -1,1 +1,1 @@
-##Grau Técnico - Banco de Dados
+Grau Técnico - Banco de Dados
